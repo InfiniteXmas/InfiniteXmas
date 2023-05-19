@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dakota Jay Whipple or Koda
+- 👀 I'm obsessed with programming
+- 🌱 I’m currently learning flutter and project management
+- 💞️ I’m looking to collaborate on anything
+- 📫 Insta or LinkedIn link on left side
